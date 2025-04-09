@@ -1,10 +1,8 @@
 fastapi
-uvicorn
-openai-whisper
-torch
-torchvision
-torchaudio
-ffmpeg-python
-numpy
-faster-whisper
+uvicorn[standard]
 transformers
+torch
+python-multipart
+faster-whisper
+librosa
+soundfile
