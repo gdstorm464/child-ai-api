@@ -7,3 +7,4 @@ torchaudio
 ffmpeg-python
 numpy
 faster-whisper
+transformers
