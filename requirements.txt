@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai-whisper
+torch
+torchvision
+torchaudio
+ffmpeg-python
+numpy
+faster-whisper
